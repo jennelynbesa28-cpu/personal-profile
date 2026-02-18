@@ -9,7 +9,7 @@ function About() {
         I am a BSIT student with a strong interest in front-end development. I
         enjoy coding, learning new technologies, and solving real-world
         problems. In my free time, I enjoy reading tech blogs and playing
-        sports.
+        online game.
       </p>
     </Card>
   );
